@@ -1,0 +1,93 @@
+{
+  "id": "kodlama",
+  "title": "Kodlama",
+  "description": "HTML, JavaScript, Python, Git ve temel bilgisayar bilimi",
+  "icon": "💻",
+  "color": "#4F7CFF",
+  "questions": [
+    {
+      "id": "kod-01",
+      "question": "HTML neyin kısaltmasıdır?",
+      "options": ["HyperText Markup Language", "HighText Machine Language", "Hyperlink Text Management Language", "Home Tool Markup Language"],
+      "answer": 0,
+      "explanation": "HTML, web sayfalarının yapısını tanımlayan HyperText Markup Language'in kısaltmasıdır."
+    },
+    {
+      "id": "kod-02",
+      "question": "JavaScript'te typeof null ifadesinin sonucu nedir?",
+      "options": ["\"null\"", "\"undefined\"", "\"object\"", "\"number\""],
+      "answer": 2,
+      "explanation": "Dilin ilk sürümlerinden kalan bilinen bir tuhaflık: typeof null, \"object\" döndürür."
+    },
+    {
+      "id": "kod-03",
+      "question": "Python'da bir listenin sonuna eleman ekleyen metot hangisidir?",
+      "options": ["push()", "add()", "insert_end()", "append()"],
+      "answer": 3,
+      "explanation": "liste.append(x) ifadesi x'i listenin sonuna ekler. push() JavaScript dizilerinde kullanılır."
+    },
+    {
+      "id": "kod-04",
+      "question": "CSS'te bir öğenin yazı rengini değiştiren özellik hangisidir?",
+      "options": ["font-color", "color", "text-color", "background"],
+      "answer": 1,
+      "explanation": "Yazı rengi color özelliğiyle verilir, örneğin color: red;"
+    },
+    {
+      "id": "kod-05",
+      "question": "Git'te değişiklikleri yerel depoya kaydeden komut hangisidir?",
+      "options": ["git push", "git commit", "git clone", "git pull"],
+      "answer": 1,
+      "explanation": "git commit değişiklikleri yerel depoya kaydeder; git push ise uzak depoya gönderir."
+    },
+    {
+      "id": "kod-06",
+      "question": "Çoğu programlama dilinde bir dizinin ilk elemanının indeksi kaçtır?",
+      "options": ["0", "1", "-1", "Dile göre rastgele"],
+      "answer": 0,
+      "explanation": "JavaScript, Python, C, Java gibi dillerde indeksler 0'dan başlar."
+    },
+    {
+      "id": "kod-07",
+      "question": "JavaScript'te \"5\" + 3 ifadesinin sonucu nedir?",
+      "options": ["8", "\"53\"", "NaN", "Hata verir"],
+      "answer": 1,
+      "explanation": "Bir taraf metin olduğunda + birleştirme yapar; 3 metne çevrilir ve sonuç \"53\" olur."
+    },
+    {
+      "id": "kod-08",
+      "question": "HTTP 404 durum kodu ne anlama gelir?",
+      "options": ["Sunucu hatası", "Yetkisiz erişim", "İstek başarılı", "Kaynak bulunamadı"],
+      "answer": 3,
+      "explanation": "404 Not Found: istenen sayfa ya da kaynak sunucuda bulunamadı."
+    },
+    {
+      "id": "kod-09",
+      "question": "Aşağıdakilerden hangisi veritabanı sorgulamak için kullanılan bir dildir?",
+      "options": ["CSS", "SQL", "HTML", "SVG"],
+      "answer": 1,
+      "explanation": "SQL (Structured Query Language) ilişkisel veritabanlarında veri sorgulamak için kullanılır."
+    },
+    {
+      "id": "kod-10",
+      "question": "Sıralı bir dizide ikili aramanın (binary search) zaman karmaşıklığı nedir?",
+      "options": ["O(n)", "O(n²)", "O(log n)", "O(1)"],
+      "answer": 2,
+      "explanation": "Her adımda arama alanı yarıya indiği için ikili arama O(log n) sürede çalışır."
+    },
+    {
+      "id": "kod-11",
+      "question": "JavaScript'te yeniden atanamayan bir değişken hangi anahtar kelimeyle tanımlanır?",
+      "options": ["var", "let", "static", "const"],
+      "answer": 3,
+      "explanation": "const ile tanımlanan değişkene yeni bir değer atanamaz."
+    },
+    {
+      "id": "kod-12",
+      "question": "1 bayt kaç bitten oluşur?",
+      "options": ["4", "8", "16", "1024"],
+      "answer": 1,
+      "explanation": "1 bayt 8 bittir."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "genel-kultur",
+  "title": "Genel Kültür",
+  "description": "Tarih, coğrafya, bilim ve sanattan karışık sorular",
+  "icon": "🌍",
+  "color": "#12A594",
+  "questions": [
+    {
+      "id": "gk-01",
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "İzmir", "Ankara", "Bursa"],
+      "answer": 2,
+      "explanation": "Ankara, 13 Ekim 1923'te başkent ilan edildi."
+    },
+    {
+      "id": "gk-02",
+      "question": "Güneş Sistemi'ndeki en büyük gezegen hangisidir?",
+      "options": ["Satürn", "Jüpiter", "Dünya", "Neptün"],
+      "answer": 1,
+      "explanation": "Jüpiter, Güneş Sistemi'nin en büyük gezegenidir."
+    },
+    {
+      "id": "gk-03",
+      "question": "İstanbul hangi yıl fethedildi?",
+      "options": ["1071", "1299", "1517", "1453"],
+      "answer": 3,
+      "explanation": "İstanbul, Fatih Sultan Mehmet tarafından 1453'te fethedildi."
+    },
+    {
+      "id": "gk-04",
+      "question": "Dünyanın en büyük okyanusu hangisidir?",
+      "options": ["Büyük Okyanus (Pasifik)", "Atlas Okyanusu", "Hint Okyanusu", "Arktik Okyanusu"],
+      "answer": 0,
+      "explanation": "Büyük Okyanus, yüzölçümü bakımından en büyük okyanustur."
+    },
+    {
+      "id": "gk-05",
+      "question": "Suyun kimyasal formülü nedir?",
+      "options": ["CO₂", "H₂O", "O₂", "NaCl"],
+      "answer": 1,
+      "explanation": "Su, iki hidrojen ve bir oksijen atomundan oluşur: H₂O."
+    },
+    {
+      "id": "gk-06",
+      "question": "Mona Lisa tablosunu kim yapmıştır?",
+      "options": ["Michelangelo", "Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+      "answer": 2,
+      "explanation": "Mona Lisa, Leonardo da Vinci'nin eseridir."
+    },
+    {
+      "id": "gk-07",
+      "question": "Türkiye Cumhuriyeti hangi yıl ilan edildi?",
+      "options": ["1920", "1923", "1919", "1938"],
+      "answer": 1,
+      "explanation": "Cumhuriyet 29 Ekim 1923'te ilan edildi."
+    },
+    {
+      "id": "gk-08",
+      "question": "Işığın boşluktaki hızı yaklaşık kaç km/s'dir?",
+      "options": ["3.000", "30.000", "3.000.000", "300.000"],
+      "answer": 3,
+      "explanation": "Işık boşlukta saniyede yaklaşık 300.000 km yol alır."
+    },
+    {
+      "id": "gk-09",
+      "question": "Yaygın kabule göre dünyada kaç kıta vardır?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "explanation": "Yaygın kabulde 7 kıta vardır: Asya, Afrika, Kuzey Amerika, Güney Amerika, Antarktika, Avrupa ve Okyanusya."
+    },
+    {
+      "id": "gk-10",
+      "question": "Türkiye'nin en yüksek dağı hangisidir?",
+      "options": ["Erciyes Dağı", "Ağrı Dağı", "Uludağ", "Süphan Dağı"],
+      "answer": 1,
+      "explanation": "Ağrı Dağı, yaklaşık 5.137 metre ile Türkiye'nin en yüksek dağıdır."
+    },
+    {
+      "id": "gk-11",
+      "question": "\"Kızıl Gezegen\" olarak bilinen gezegen hangisidir?",
+      "options": ["Mars", "Venüs", "Merkür", "Jüpiter"],
+      "answer": 0,
+      "explanation": "Mars, yüzeyindeki demir oksit nedeniyle kırmızı görünür."
+    },
+    {
+      "id": "gk-12",
+      "question": "Bir futbol takımı sahaya kaç oyuncuyla çıkar?",
+      "options": ["9", "10", "12", "11"],
+      "answer": 3,
+      "explanation": "Futbolda her takım sahada kaleci dahil 11 oyuncuyla oynar."
+    }
+  ]
+}

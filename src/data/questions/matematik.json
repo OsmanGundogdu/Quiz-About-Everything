@@ -1,0 +1,93 @@
+{
+  "id": "matematik",
+  "title": "Matematik",
+  "description": "İşlemler, denklemler, geometri ve sayılar",
+  "icon": "➗",
+  "color": "#FF7A45",
+  "questions": [
+    {
+      "id": "mat-01",
+      "question": "7 × 8 kaçtır?",
+      "options": ["54", "56", "63", "48"],
+      "answer": 1,
+      "explanation": "7 × 8 = 56."
+    },
+    {
+      "id": "mat-02",
+      "question": "144'ün karekökü kaçtır?",
+      "options": ["11", "14", "12", "13"],
+      "answer": 2,
+      "explanation": "12 × 12 = 144 olduğu için √144 = 12."
+    },
+    {
+      "id": "mat-03",
+      "question": "2¹⁰ kaçtır?",
+      "options": ["512", "1000", "2048", "1024"],
+      "answer": 3,
+      "explanation": "2'nin 10. kuvveti 1024'tür."
+    },
+    {
+      "id": "mat-04",
+      "question": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+      "options": ["90", "180", "270", "360"],
+      "answer": 1,
+      "explanation": "Her üçgende iç açıların toplamı 180°'dir."
+    },
+    {
+      "id": "mat-05",
+      "question": "15'in %20'si kaçtır?",
+      "options": ["3", "5", "2", "7,5"],
+      "answer": 0,
+      "explanation": "15 × 20 / 100 = 3."
+    },
+    {
+      "id": "mat-06",
+      "question": "3x + 5 = 20 ise x kaçtır?",
+      "options": ["4", "6", "5", "15"],
+      "answer": 2,
+      "explanation": "3x = 15, buradan x = 5."
+    },
+    {
+      "id": "mat-07",
+      "question": "Aşağıdakilerden hangisi asal sayı değildir?",
+      "options": ["2", "13", "29", "21"],
+      "answer": 3,
+      "explanation": "21 = 3 × 7 olduğu için asal değildir."
+    },
+    {
+      "id": "mat-08",
+      "question": "Bir kenarı 5 cm olan karenin alanı kaç cm²'dir?",
+      "options": ["20", "25", "10", "15"],
+      "answer": 1,
+      "explanation": "Karenin alanı kenar × kenar: 5 × 5 = 25 cm²."
+    },
+    {
+      "id": "mat-09",
+      "question": "0,25 sayısının kesir olarak en sade hâli hangisidir?",
+      "options": ["1/4", "2/5", "1/5", "25/10"],
+      "answer": 0,
+      "explanation": "0,25 = 25/100 = 1/4."
+    },
+    {
+      "id": "mat-10",
+      "question": "1'den 10'a kadar olan doğal sayıların toplamı kaçtır?",
+      "options": ["45", "50", "55", "100"],
+      "answer": 2,
+      "explanation": "n(n+1)/2 formülüyle 10 × 11 / 2 = 55."
+    },
+    {
+      "id": "mat-11",
+      "question": "Yarıçapı 3 birim olan dairenin alanı kaçtır? (π = 3 alınız)",
+      "options": ["18", "9", "36", "27"],
+      "answer": 3,
+      "explanation": "Alan = π × r² = 3 × 9 = 27."
+    },
+    {
+      "id": "mat-12",
+      "question": "12 ve 18 sayılarının en büyük ortak böleni (EBOB) kaçtır?",
+      "options": ["6", "3", "36", "2"],
+      "answer": 0,
+      "explanation": "12 ve 18'i birlikte bölen en büyük sayı 6'dır."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "turkce",
+  "title": "Türkçe",
+  "description": "Dil bilgisi, yazım kuralları, deyimler ve ses olayları",
+  "icon": "📚",
+  "color": "#E5484D",
+  "questions": [
+    {
+      "id": "tr-01",
+      "question": "Aşağıdaki kelimelerden hangisi büyük ünlü uyumuna uymaz?",
+      "options": ["araba", "okul", "kitap", "çiçek"],
+      "answer": 2,
+      "explanation": "\"Kitap\" kelimesinde ince ünlü (i) ile kalın ünlü (a) bir arada olduğu için büyük ünlü uyumuna uymaz."
+    },
+    {
+      "id": "tr-02",
+      "question": "\"Gözlükçü\" kelimesinde kaç tane yapım eki vardır?",
+      "options": ["1", "2", "3", "Hiç yoktur"],
+      "answer": 1,
+      "explanation": "göz + -lük + -çü: iki yapım eki vardır."
+    },
+    {
+      "id": "tr-03",
+      "question": "Aşağıdaki kelime çiftlerinden hangisi eş anlamlı değildir?",
+      "options": ["siyah – kara", "doğru – yanlış", "ak – beyaz", "yanıt – cevap"],
+      "answer": 1,
+      "explanation": "\"Doğru – yanlış\" zıt anlamlı bir kelime çiftidir."
+    },
+    {
+      "id": "tr-04",
+      "question": "Aşağıdaki cümlelerin hangisinde \"ki\" doğru yazılmıştır?",
+      "options": ["Duydumki gidiyormuşsun.", "Öyleki herkes şaştı.", "Duydum ki gidiyormuşsun.", "Halbu ki biliyordu."],
+      "answer": 2,
+      "explanation": "Bağlaç olan \"ki\" ayrı yazılır. \"Halbuki\" ise kalıplaşmış olduğu için bitişik yazılır."
+    },
+    {
+      "id": "tr-05",
+      "question": "Aşağıdakilerden hangisi bir isimdir (ad)?",
+      "options": ["koşmak", "güzel", "hızlıca", "masa"],
+      "answer": 3,
+      "explanation": "\"Masa\" bir varlığı karşılayan isimdir. Diğerleri sırasıyla fiil, sıfat ve zarftır."
+    },
+    {
+      "id": "tr-06",
+      "question": "\"Ağzı kulaklarına varmak\" deyimi ne anlama gelir?",
+      "options": ["Çok sevinmek", "Çok konuşmak", "Çok şaşırmak", "Sır saklamak"],
+      "answer": 0,
+      "explanation": "Bu deyim, sevincinden yüzü gülmek, çok sevinmek anlamına gelir."
+    },
+    {
+      "id": "tr-07",
+      "question": "Hangi kelimede ünsüz yumuşaması vardır?",
+      "options": ["burnu", "kitabı", "geliyor", "kitapçı"],
+      "answer": 1,
+      "explanation": "kitap + ı → kitabı: sondaki \"p\" ünlüyle başlayan ek alınca \"b\"ye dönüşmüştür."
+    },
+    {
+      "id": "tr-08",
+      "question": "\"Kırmızı elma\" ifadesinde \"kırmızı\" kelimesinin türü nedir?",
+      "options": ["Zarf", "Fiil", "Sıfat", "Zamir"],
+      "answer": 2,
+      "explanation": "\"Kırmızı\" elmanın rengini bildirdiği için niteleme sıfatıdır."
+    },
+    {
+      "id": "tr-09",
+      "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+      "options": ["Yanlış yaptın.", "Yalnız kaldım.", "Herkez geldi.", "Şoför bekliyor."],
+      "answer": 2,
+      "explanation": "Doğru yazımı \"herkes\"tir."
+    },
+    {
+      "id": "tr-10",
+      "question": "Türk alfabesinde kaç harf vardır?",
+      "options": ["26", "28", "29", "30"],
+      "answer": 2,
+      "explanation": "Türk alfabesi 8'i ünlü, 21'i ünsüz olmak üzere 29 harften oluşur."
+    },
+    {
+      "id": "tr-11",
+      "question": "Soru eki \"mi\" hangi seçenekte doğru yazılmıştır?",
+      "options": ["Geldinmi?", "Geldin mi?", "Geldin-mi?", "Gel dinmi?"],
+      "answer": 1,
+      "explanation": "Soru eki \"mı, mi, mu, mü\" her zaman ayrı yazılır."
+    },
+    {
+      "id": "tr-12",
+      "question": "\"Ali okula gitti.\" cümlesinin yüklemi hangisidir?",
+      "options": ["Ali", "okula", "gitti", "Ali okula"],
+      "answer": 2,
+      "explanation": "Yüklem, cümlede işi ya da yargıyı bildiren öğedir: \"gitti\"."
+    }
+  ]
+}
